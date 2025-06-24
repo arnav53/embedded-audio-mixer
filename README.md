@@ -60,12 +60,12 @@ This repo is a showcase of project architecture, hardware design, software integ
 ## Demo Videos
 
 ### Piano Input
-[piano.mov](demo/piano.mp4)
+[piano.mp4](demo/piano.mp4)
 
 ### Drum Pads
-[drum.mov](demo/drum.mp4)
+[drum.mp4](demo/drum.mp4)
 
 ### Equalizer Control
-[equalizer.mov](demo/equalizer.mp4)
+[equalizer.mp4](demo/equalizer.mp4)
 
 > You can download or preview these `.mp4` files depending on your browser or GitHub client.
